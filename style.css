@@ -1,0 +1,698 @@
+.mobile-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.mobile-pro .div {
+  background-color: #ffffff;
+  width: 1512px;
+  height: 1150px;
+  position: relative;
+}
+
+.mobile-pro .overlap {
+  position: absolute;
+  width: 1512px;
+  height: 687px;
+  top: 0;
+  left: 0;
+}
+
+.mobile-pro .vector {
+  position: absolute;
+  width: 1512px;
+  height: 652px;
+  top: 0;
+  left: 0;
+}
+
+.mobile-pro .rectangle {
+  position: absolute;
+  width: 617px;
+  height: 19px;
+  top: 664px;
+  left: 592px;
+  background-color: #c4c4c4;
+}
+
+.mobile-pro .group {
+  position: absolute;
+  width: 294px;
+  height: 220px;
+  top: 186px;
+  left: 794px;
+}
+
+.mobile-pro .pexels-alexander-ant {
+  position: absolute;
+  width: 147px;
+  height: 220px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.mobile-pro .img {
+  position: absolute;
+  width: 147px;
+  height: 220px;
+  top: 0;
+  left: 147px;
+  object-fit: cover;
+}
+
+.mobile-pro .MOVEIS-QUE-TODOS-v-o {
+  position: absolute;
+  top: 117px;
+  left: 70px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0.64px;
+  line-height: 70px;
+}
+
+.mobile-pro .text-wrapper {
+  position: absolute;
+  width: 637px;
+  top: 347px;
+  left: 70px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0.24px;
+  line-height: 40px;
+}
+
+.mobile-pro .overlap-group-wrapper {
+  position: absolute;
+  width: 98px;
+  height: 70px;
+  top: 433px;
+  left: 70px;
+}
+
+.mobile-pro .overlap-group {
+  position: relative;
+  width: 96px;
+  height: 70px;
+}
+
+.mobile-pro .rectangle-2 {
+  position: absolute;
+  width: 96px;
+  height: 32px;
+  top: 19px;
+  left: 0;
+  background-color: #2b2b2b;
+  border-radius: 20px;
+}
+
+.mobile-pro .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  font-family: "Montserrat Alternates", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.mobile-pro .overlap-wrapper {
+  position: absolute;
+  width: 98px;
+  height: 70px;
+  top: 433px;
+  left: 186px;
+}
+
+.mobile-pro .rectangle-3 {
+  position: absolute;
+  width: 96px;
+  height: 32px;
+  top: 19px;
+  left: 0;
+  border-radius: 20px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.mobile-pro .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  font-family: "Montserrat Alternates", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.mobile-pro .group-2 {
+  position: absolute;
+  width: 1004px;
+  height: 425px;
+  top: 262px;
+  left: 432px;
+}
+
+.mobile-pro .pexels-mart {
+  position: absolute;
+  width: 858px;
+  height: 425px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.mobile-pro .red-lamp-on-a-high {
+  position: absolute;
+  width: 146px;
+  height: 382px;
+  top: 43px;
+  left: 858px;
+}
+
+.mobile-pro .group-3 {
+  position: absolute;
+  width: 1363px;
+  height: 70px;
+  top: 2px;
+  left: 78px;
+}
+
+.mobile-pro .div-wrapper {
+  position: absolute;
+  width: 98px;
+  height: 70px;
+  top: 0;
+  left: 1267px;
+}
+
+.mobile-pro .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-family: "Montserrat Alternates", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.16px;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.mobile-pro .navbar {
+  position: absolute;
+  width: 1220px;
+  height: 40px;
+  top: 15px;
+  left: 0;
+}
+
+.mobile-pro .group-4 {
+  position: absolute;
+  width: 137px;
+  height: 24px;
+  top: 8px;
+  left: 0;
+}
+
+.mobile-pro .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.mobile-pro .text-wrapper-6 {
+  left: 627px;
+  font-weight: 700;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.mobile-pro .text-wrapper-7 {
+  position: absolute;
+  top: 0;
+  left: 736px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.mobile-pro .text-wrapper-8 {
+  left: 877px;
+  font-weight: 300;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.mobile-pro .text-wrapper-9 {
+  left: 1028px;
+  font-weight: 300;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.mobile-pro .text-wrapper-10 {
+  left: 1115px;
+  font-weight: 300;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.mobile-pro .group-5 {
+  position: absolute;
+  width: 1412px;
+  height: 357px;
+  top: 747px;
+  left: 70px;
+}
+
+.mobile-pro .group-6 {
+  position: absolute;
+  width: 328px;
+  height: 317px;
+  top: 23px;
+  left: 0;
+}
+
+.mobile-pro .group-wrapper {
+  position: absolute;
+  width: 328px;
+  height: 227px;
+  top: 0;
+  left: 0;
+}
+
+.mobile-pro .group-7 {
+  position: relative;
+  width: 332px;
+  height: 227px;
+}
+
+.mobile-pro .p {
+  position: absolute;
+  width: 173px;
+  top: 0;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0.24px;
+  line-height: 30px;
+}
+
+.mobile-pro .temos-mais-de {
+  position: absolute;
+  width: 328px;
+  top: 116px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  line-height: 25px;
+}
+
+.mobile-pro .img-wrapper {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 272px;
+  left: 142px;
+  background-color: #7d0601;
+  border-radius: 22.5px;
+}
+
+.mobile-pro .group-8 {
+  position: absolute;
+  width: 29px;
+  height: 21px;
+  top: 13px;
+  left: 7px;
+}
+
+.mobile-pro .group-9 {
+  position: absolute;
+  width: 908px;
+  height: 357px;
+  top: 0;
+  left: 348px;
+}
+
+.mobile-pro .group-10 {
+  position: absolute;
+  width: 212px;
+  height: 355px;
+  top: 2px;
+  left: 0;
+}
+
+.mobile-pro .overlap-2 {
+  position: relative;
+  width: 216px;
+  height: 355px;
+}
+
+.mobile-pro .group-11 {
+  position: absolute;
+  width: 216px;
+  height: 355px;
+  top: 0;
+  left: 0;
+}
+
+.mobile-pro .overlap-group-2 {
+  position: relative;
+  width: 212px;
+  height: 355px;
+}
+
+.mobile-pro .rectangle-4 {
+  position: absolute;
+  width: 212px;
+  height: 334px;
+  top: 21px;
+  left: 0;
+  background-color: #f6f6f6;
+}
+
+.mobile-pro .pexels-anna-shvets {
+  position: absolute;
+  width: 137px;
+  height: 205px;
+  top: 0;
+  left: 37px;
+  object-fit: cover;
+}
+
+.mobile-pro .white-wooden-chair {
+  position: absolute;
+  top: 235px;
+  left: 43px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+}
+
+.mobile-pro .text-wrapper-11 {
+  position: absolute;
+  top: 305px;
+  left: 89px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.mobile-pro .cadeira-moderna {
+  position: absolute;
+  top: 235px;
+  left: 31px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+}
+
+.mobile-pro .text-wrapper-12 {
+  top: 305px;
+  left: 78px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.mobile-pro .group-12 {
+  position: absolute;
+  width: 216px;
+  height: 357px;
+  top: 0;
+  left: 232px;
+}
+
+.mobile-pro .overlap-3 {
+  position: relative;
+  width: 212px;
+  height: 357px;
+}
+
+.mobile-pro .rectangle-5 {
+  top: 23px;
+  position: absolute;
+  width: 212px;
+  height: 334px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.mobile-pro .cadeira-sustentavel {
+  position: absolute;
+  top: 237px;
+  left: 57px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+}
+
+.mobile-pro .text-wrapper-13 {
+  top: 307px;
+  left: 79px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.mobile-pro .pexels-karolina {
+  position: absolute;
+  width: 137px;
+  height: 206px;
+  top: 0;
+  left: 37px;
+  object-fit: cover;
+}
+
+.mobile-pro .group-13 {
+  position: absolute;
+  width: 216px;
+  height: 356px;
+  top: 1px;
+  left: 464px;
+}
+
+.mobile-pro .overlap-4 {
+  position: relative;
+  width: 212px;
+  height: 356px;
+}
+
+.mobile-pro .rectangle-6 {
+  top: 22px;
+  position: absolute;
+  width: 212px;
+  height: 334px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.mobile-pro .vaso-de-flores {
+  position: absolute;
+  top: 236px;
+  left: 74px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+}
+
+.mobile-pro .text-wrapper-14 {
+  top: 306px;
+  left: 91px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.mobile-pro .pexels-anna {
+  position: absolute;
+  width: 137px;
+  height: 206px;
+  top: 0;
+  left: 31px;
+  object-fit: cover;
+}
+
+.mobile-pro .group-14 {
+  position: absolute;
+  width: 212px;
+  height: 355px;
+  top: 2px;
+  left: 696px;
+}
+
+.mobile-pro .group-15 {
+  width: 216px;
+  height: 355px;
+}
+
+.mobile-pro .rectangle-7 {
+  top: 21px;
+  position: absolute;
+  width: 212px;
+  height: 334px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.mobile-pro .cabeceira-de-cama {
+  position: absolute;
+  top: 235px;
+  left: 62px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+}
+
+.mobile-pro .text-wrapper-15 {
+  top: 305px;
+  left: 76px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.mobile-pro .pexels-dmitry {
+  position: absolute;
+  width: 137px;
+  height: 206px;
+  top: 0;
+  left: 38px;
+  object-fit: cover;
+}
+
+.mobile-pro .delivery {
+  position: absolute;
+  width: 156px;
+  height: 117px;
+  top: 120px;
+  left: 1256px;
+}
+/* Add this CSS to your style.css file or within a <style> tag in your HTML */
+
+.buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.login-button,
+
+.mobile-pro.text-wrapper-10 {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  background-color: #0073e6; /* Change the background color as desired */
+  color: #fff; /* Text color */
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.login-button:hover,
+.text-wrapper-10:hover {
+  color: #ffffff; /* Change the hover background color as desired */
+}
